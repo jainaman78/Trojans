@@ -1,0 +1,108 @@
+[
+    {
+        "id":"1",
+        "path":"/details1",
+        "location":"Delhi to Ladakh",
+        "Ratings":"4.5",
+        "duration": "6D/5N",
+        "name":"Leh Ladakh",
+        "desc":"Venture to Leh-Ladakh, where the breathtaking landscapes unfold like a scene from '3 Idiots.' Embrace the dramatic Himalayan vistas, ride through winding roads, and marvel at serene Pangong Lake. Live your own cinematic adventure in this rugged paradise, just like the three friends in the film, all while discovering the true meaning of freedom and friendship.",
+        "price":"18000",
+        "url":"https://static.toiimg.com/photo/64764925/leh-mountains.jpg?width=748&resize=4"
+    },
+    {
+        "id":"2",
+        "location":"Mumbai to Delhi",
+        "duration":"3D/2N",
+        "name":"Delhi",
+        "desc":"Delhi awaits, a city as dramatic and diverse as the scenes in 'Delhi-6.'' Explore the enchanting labyrinth of Chandni Chowk, where every corner holds a cinematic surprise. Stand in awe of the majestic Red Fort and Jama Masjid, and let the city's rich history and vibrant culture steal the spotlight in your own epic adventure.",
+        "price":"15000",
+        "url":"https://i.pinimg.com/564x/24/ac/a0/24aca02590195b2c7304f81faed03cf5.jpg"
+    },
+    {
+        "id":"3",
+        "location":"",
+        "duration":"",
+        "name":"Darjeeling",
+        "desc":"Darjeeling, much like the charming setting of 'Barfi,' offers a whimsical escape into the hills. Stroll through misty tea plantations, take in panoramic views of the Himalayas, and explore the quaint town's vintage charm. Experience the magic of love and friendship in the backdrop of this picturesque hill station, just like the characters in the film. Darjeeling, where every moment is a sweet and unforgettable melody.",
+        "price":"13000",
+        "url":"https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2021/03/Lachung-Sikkim.jpg?resize=768%2C512&ssl=1https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2021/03/Lachung-Sikkim.jpg?resize=768%2C512&ssl=1"
+    },
+    
+    {
+        "id":"4",
+        "location":"Delhi to Mumbai",
+        "duration":"4D/3N",
+        "name":"Mumbai",
+        "desc":"Mumbai, much like the coming-of-age journey in 'Wake Up Sid' Dive into the fast-paced, dream-chasing spirit of the city. Embrace its vibrant culture, chase your ambitions, and explore the bustling streets, fashion, and nightlife, just like Sid in the film. Mumbai, where every dreamer finds their own unique story.",
+        "price":"46000",
+        "url":"https://lonelyplanetimages.imgix.net/a/g/hi/t/bbc886323ff07d295157ea35f423e121-gateway-of-india.jpg"
+        
+    },
+    {
+        "id":"5",
+        "location":"Delhi to Kolkata",
+        "duration":"6D/5N",
+        "name":"Kolkata",
+        "desc":"Step into the lively world of Kolkata, much like the heartwarming tale of 'Piku' Meander through the bustling streets of the city, filled with nostalgia and culture. Experience the city's unique blend of tradition and modernity, just as the characters in the film do, all while savoring delectable Bengali cuisine. Kolkata, where life's simple joys take center stage.",
+        "price":"8000",
+        "url":"https://i.pinimg.com/564x/73/ff/cd/73ffcd84e55b4a928df18d06bd749702.jpg"
+    },{
+        "id":"6",
+        "location":"",
+        "duration":"",
+        "name":"Udaipur",
+        "desc":"Udaipur, where the spirit of adventure and romance in 'Yeh Jawaani Hai Deewani' comes to life. Discover the majestic City Palace, sail on Lake Pichola, and embrace the rich Rajasthani heritage. Let your heart wander, just like the characters in the film, amidst the royal grandeur and scenic beauty of Udaipur. Udaipur, where dreams are set afloat in the city of lakes and love.",
+        "price":"5000",
+        "url":"https://i.pinimg.com/564x/00/50/46/0050462157e147f46be499fc085c29fa.jpg"
+    },{
+        "id":"7",
+        "location":"",
+        "duration":"",        
+        "name":"Amritsar",
+        "desc":"Chandigarh, India's well-planned and green city, is a serene escape. Admire Le Corbusier's architectural marvels, like the Capitol Complex and the Rock Garden. Stroll through picturesque Sukhna Lake and indulge in shopping at Sector 17. Chandigarh's unique design and tranquility offer a refreshing urban experience.",
+        "price":"4500",
+        "url":"https://i.pinimg.com/564x/e3/14/dc/e314dc526f0558163b93f88221a547d0.jpg"
+    },{
+        "id":"8",
+        "location":"",
+        "duration":"",        
+        "name":"Chennai",
+        "desc":"Chennai, a city as vibrant and lively as the Bollywood blockbuster 'Chennai Express.'' Get ready for a thrilling ride through the cultural and scenic wonders of the city. Explore the bustling markets, savor the mouthwatering South Indian cuisine, and immerse yourself in the warmth of Chennai's people, just like the characters in the film. Chennai, where every moment is a cinematic adventure!",
+        "price":"5000",
+        "url":"https://www.holidify.com/images/bgImages/CHENNAI%20.jpg"
+    },{
+        "id":"9",
+        "location":"",
+        "duration":"",        
+        "name":"Goa",
+        "desc":"Goa, where the spirit of self-discovery and life's joys, akin to 'Dear Zindagi,' unfolds. Immerse yourself in the relaxed beach vibes, explore the scenic landscapes, and find inner peace. Just as the film's protagonist embarks on a journey of self-acceptance, let Goa be the backdrop to your own introspective adventure. Goa, where every moment is a step towards embracing life's imperfections.",
+        "price":"15000",
+        "url":"https://www.holidify.com/images/bgImages/GOA.jpg"
+    },{
+        "id":"10",
+        "location":"",
+        "duration":"",        
+        "name":"Manali",
+        "desc":"Manali, where the exhilarating adventures and profound friendships in 'Yeh Jawaani Hai Deewani' take center stage. Explore the scenic beauty of the Himalayan town, trek in the lush valleys, and live the spirit of freedom. Just as the characters in the film forged unforgettable bonds, let Manali be the backdrop for your own adventure-filled journey. Manali, where the mountains echo with the sounds of youthful enthusiasm and lifelong memories.",
+        "price":"3600",
+        "url":"https://i.pinimg.com/564x/e0/69/43/e06943cb6f2cd9f14d5c98dc52ccd93c.jpg"
+    },{
+        "id":"11",
+        "location":"",
+        "duration":"",
+        "name":"Kedarnath",
+        "desc":"Prepare to be swept into a high-voltage maelstrom of emotions as 'Kedarnath' transports you to the very crucible of passion and faith! Amidst the towering Himalayas, love ignites like lightning, thundering with intensity, and the sacred temple becomes the stage for a heart-pounding drama that defies nature's fury. Kedarnath is the electrifying epic you must experience!",
+        "price":"5000",
+        "url":"https://i.pinimg.com/564x/22/d8/25/22d825b76a28090e93efd7802af15e7f.jpg"
+    },
+    {   
+        "id":"12",
+        "location":"",
+        "duration":"",
+        "name":"Kashmir",
+        "desc":"Kashmir, often called 'Paradise on Earth,' boasts breathtaking natural beauty. Explore the scenic Dal Lake, go trekking in the Himalayas, and experience the cultural richness of Srinagar. The region's serene landscapes, houseboats, and warm hospitality make Kashmir a dream destination for nature lovers and seekers of tranquility.",
+        "price":"8000",
+        "url":"https://shritravel.com/wp-content/uploads/2020/09/Top-Things-to-Do-in-Jammu-and-Kashmir-1024x577.jpg"
+    }
+]

@@ -13,10 +13,10 @@ const Details1 = () => {
         <div class="row row-cols-1 row-cols-md-2 align-items-md-center g-5 py-5">
           <div class="col d-flex flex-column align-items-start gap-2">
             <h2 class="fw-bold text-body-emphasis">
-             Leh Ladakh
+             Udaipur
             </h2>
             <p class="text-body-secondary">
-            Venture to Leh-Ladakh, where the breathtaking landscapes unfold like a scene from "3 Idiots." Embrace the dramatic Himalayan vistas, ride through winding roads, and marvel at serene Pangong Lake. Live your own cinematic adventure in this rugged paradise, just like the three friends in the film, all while discovering the true meaning of freedom and friendship.            </p>
+            Udaipur, where the spirit of adventure and romance in "Yeh Jawaani Hai Deewani" comes to life. Discover the majestic City Palace, sail on Lake Pichola, and embrace the rich Rajasthani heritage. Let your heart wander, just like the characters in the film, amidst the royal grandeur and scenic beauty of Udaipur. Udaipur, where dreams are set afloat in the city of lakes and love.            </p>
           </div>
 
           <div class="col">
@@ -32,7 +32,7 @@ const Details1 = () => {
                 <h4 class="fw-semibold mb-0 text-body-emphasis">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-airplane-fill" viewBox="0 0 16 16">
                   <path d="M6.428 1.151C6.708.591 7.213 0 8 0s1.292.592 1.572 1.151C9.861 1.73 10 2.431 10 3v3.691l5.17 2.585a1.5 1.5 0 0 1 .83 1.342V12a.5.5 0 0 1-.582.493l-5.507-.918-.375 2.253 1.318 1.318A.5.5 0 0 1 10.5 16h-5a.5.5 0 0 1-.354-.854l1.319-1.318-.376-2.253-5.507.918A.5.5 0 0 1 0 12v-1.382a1.5 1.5 0 0 1 .83-1.342L6 6.691V3c0-.568.14-1.271.428-1.849Z"/>
-                  </svg> Delhi to Leh Ladakh
+                  </svg> Delhi to Udaipur
                 </h4>
               </div>
 
@@ -40,7 +40,7 @@ const Details1 = () => {
                 <h4 class="fw-semibold mb-0 text-body-emphasis">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
   <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
-</svg> 5
+</svg> 4
                 </h4>
               </div>
 

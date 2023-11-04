@@ -4,7 +4,11 @@ import React, { useEffect, useState } from "react";
 const Details1 = () => {
   return (
     <>
-
+  <div class="carousel-inner containers">
+    <div class="carousel-item active">
+      <img src="https://www.holidify.com/images/bgImages/DELHI.jpg" class="d-block w-100" alt="..."/>
+    </div>
+    </div>
       <div className="containers">
         <div class="row row-cols-1 row-cols-md-2 align-items-md-center g-5 py-5">
           <div class="col d-flex flex-column align-items-start gap-2">
@@ -12,7 +16,7 @@ const Details1 = () => {
              Delhi
             </h2>
             <p class="text-body-secondary">
-            Delhi, India's vibrant  capital, offers a rich tapestry of history and modernity. Explore iconic landmarks like the Red Fort, India Gate, and Qutub Minar. Savor diverse culinary delights and shop in bustling markets. The city's mix of tradition and progress makes Delhi a captivating destination for culture and exploration.
+            Delhi awaits, a city as dramatic and diverse as the scenes in "Delhi-6." Explore the enchanting labyrinth of Chandni Chowk, where every corner holds a cinematic surprise. Stand in awe of the majestic Red Fort and Jama Masjid, and let the city's rich history and vibrant culture steal the spotlight in your own epic adventure.
             </p>
           </div>
 
@@ -45,7 +49,7 @@ const Details1 = () => {
                 <h4 class="fw-semibold mb-0 text-body-emphasis">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-tag-fill" viewBox="0 0 16 16">
                 <path d="M2 1a1 1 0 0 0-1 1v4.586a1 1 0 0 0 .293.707l7 7a1 1 0 0 0 1.414 0l4.586-4.586a1 1 0 0 0 0-1.414l-7-7A1 1 0 0 0 6.586 1H2zm4 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/>
-                </svg> 
+                </svg> 18,000
                 </h4>
               </div>
             </div>

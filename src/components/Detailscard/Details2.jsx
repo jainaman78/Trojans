@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 
-const Details1 = () => {
+const Details2 = () => {
   return (
     <>
   <div class="carousel-inner containers">
@@ -13,10 +13,11 @@ const Details1 = () => {
         <div class="row row-cols-1 row-cols-md-2 align-items-md-center g-5 py-5">
           <div class="col d-flex flex-column align-items-start gap-2">
             <h2 class="fw-bold text-body-emphasis">
-             Mumbai
+             Delhi
             </h2>
             <p class="text-body-secondary">
-            Mumbai, much like the coming-of-age journey in "Wake Up Sid." Dive into the fast-paced, dream-chasing spirit of the city. Embrace its vibrant culture, chase your ambitions, and explore the bustling streets, fashion, and nightlife, just like Sid in the film. Mumbai, where every dreamer finds their own unique story.            </p>
+            Delhi awaits, a city as dramatic and diverse as the scenes in "Delhi-6." Explore the enchanting labyrinth of Chandni Chowk, where every corner holds a cinematic surprise. Stand in awe of the majestic Red Fort and Jama Masjid, and let the city's rich history and vibrant culture steal the spotlight in your own epic adventure.
+            </p>
           </div>
 
           <div class="col">
@@ -25,14 +26,14 @@ const Details1 = () => {
                   <h4 class="fw-semibold mb-0 text-body-emphasis">
                   <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-calendar-check-fill" viewBox="0 0 16 16">
   <path d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v1h16V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4V.5zM16 14V5H0v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2zm-5.146-5.146-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 0 1 .708-.708L7.5 10.793l2.646-2.647a.5.5 0 0 1 .708.708z"/>
-</svg> 4D/3N 
+</svg> 3D/2N 
                 </h4>
               </div>
               <div class="col d-flex flex-column gap-2">
                 <h4 class="fw-semibold mb-0 text-body-emphasis">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-airplane-fill" viewBox="0 0 16 16">
                   <path d="M6.428 1.151C6.708.591 7.213 0 8 0s1.292.592 1.572 1.151C9.861 1.73 10 2.431 10 3v3.691l5.17 2.585a1.5 1.5 0 0 1 .83 1.342V12a.5.5 0 0 1-.582.493l-5.507-.918-.375 2.253 1.318 1.318A.5.5 0 0 1 10.5 16h-5a.5.5 0 0 1-.354-.854l1.319-1.318-.376-2.253-5.507.918A.5.5 0 0 1 0 12v-1.382a1.5 1.5 0 0 1 .83-1.342L6 6.691V3c0-.568.14-1.271.428-1.849Z"/>
-                  </svg> Delhi to  Mumbai
+                  </svg> Mumbai to Delhi
                 </h4>
               </div>
 
@@ -48,7 +49,7 @@ const Details1 = () => {
                 <h4 class="fw-semibold mb-0 text-body-emphasis">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-tag-fill" viewBox="0 0 16 16">
                 <path d="M2 1a1 1 0 0 0-1 1v4.586a1 1 0 0 0 .293.707l7 7a1 1 0 0 0 1.414 0l4.586-4.586a1 1 0 0 0 0-1.414l-7-7A1 1 0 0 0 6.586 1H2zm4 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"/>
-                </svg> 14,000
+                </svg> 18,000
                 </h4>
               </div>
             </div>
@@ -60,4 +61,4 @@ const Details1 = () => {
   );
 };
 
-export default Details1;
+export default Details2;

@@ -10,7 +10,7 @@ const Navbar = () => {
                     <li className="nav-item"><Link className="nav-link" to="/">Home</Link></li>
                     <li className="nav-item"><Link className="nav-link" to="/discover">Discover</Link></li>
                     <li className="nav-item"><Link className="nav-link" to="">Plan a Trip</Link></li>
-                    <li className="nav-item"><Link className="nav-link" to="">Splitwise</Link></li>
+                    <li className="nav-item"><Link className="nav-link" to="">Cashpress</Link></li>
                     <li className="nav-item"><Link className="nav-link" to="">FAQs</Link></li>
                     <button className="btn btn-outline-success" type="submit">Register/Login</button>
                   </ul>

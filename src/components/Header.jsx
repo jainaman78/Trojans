@@ -15,7 +15,7 @@ const Header = () => {
                     <div className="col-md-6 p-lg-5 mx-auto my-5">
                       <h1 className="display-3 fw-bold">Travel Tally</h1>
                       <h3 className="fw-normal text-muted mb-3">
-                        Build anything you want with Aperture
+                        Your Journey, Your Budget, Your way
                       </h3>
                     </div>
                   </div>
